@@ -10,3 +10,5 @@ REQUIREMENTS (windows only)
 2. Selenium Webdriver for Python (https://selenium-python.readthedocs.io/installation.html)
 3. Firefox (https://www.mozilla.org/en-US/firefox/new/)
 4. Geckodriver for Firefox (placed in same directory as Scraper.py) (https://github.com/mozilla/geckodriver/releases)
+
+demo: https://youtu.be/TSk3Rd5vV_A
